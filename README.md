@@ -18,3 +18,13 @@ ______________________________________
 one last commit
 
 important info spianarak is the best pokemon
+
+
+-----------------------
+followed workshop 
+
+published
+
+deleted 
+
+cloned
