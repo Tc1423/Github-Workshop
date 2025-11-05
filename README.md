@@ -3,6 +3,8 @@ Hello
 Text file
 
 
-THis is for a GitHub workshop
+This is for a GitHub workshop
 
 ___________________-----------------_______________------------
+
+Typo fixed
